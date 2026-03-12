@@ -1,4 +1,4 @@
-# 🚗 Real-Time Vehicle Status Monitoring Using CAN
+# 🏎️ Real-Time Vehicle Status Monitoring Using CAN
 
 ## 📌 Overview
 This project implements a **real-time vehicle monitoring system** using the **Controller Area Network (CAN) protocol**.  
