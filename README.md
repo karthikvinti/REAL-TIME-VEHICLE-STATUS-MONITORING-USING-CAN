@@ -200,12 +200,12 @@ If acceleration exceeds threshold → **Airbag is triggered**.
 The LCD dashboard displays:
 
       ------DASHBOARD------
-      Fuel: ████ 75%
+      Fuel: ███  70%
       AIRBAG STATUS: OFF/ON
       Indicator: ← →
       
 ### 🧩 Overall Hardware Connection
-![WhatsApp Image 2026-03-12 at 4 05 44 PM](https://github.com/user-attachments/assets/b935fdf5-dc28-4c70-8d28-f53448906cae)
+
 
 ### 🔕 When No Accident Occurs
 ![WhatsApp Image 2026-03-12 at 4 05 46 PM](https://github.com/user-attachments/assets/1b96663e-8e30-419a-a844-bdfd5cad5217)
