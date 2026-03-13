@@ -206,7 +206,6 @@ The LCD dashboard displays:
       
 ### 🧩 Overall Hardware Connection
 
-
 ### 🔕 When No Accident Occurs
 ![WhatsApp Image 2026-03-12 at 4 05 46 PM](https://github.com/user-attachments/assets/1b96663e-8e30-419a-a844-bdfd5cad5217)
 
