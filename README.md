@@ -205,12 +205,13 @@ The LCD dashboard displays:
       Indicator: ← →
       
 ### 🧩 Overall Hardware Connection
+![CAN Nodes](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20nodes.jpg)
 
 ### 🔕 When No Accident Occurs
-![WhatsApp Image 2026-03-12 at 4 05 46 PM](https://github.com/user-attachments/assets/1b96663e-8e30-419a-a844-bdfd5cad5217)
+![CAN OFF](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20off.jpeg)
 
 ### 🔔 When Accident Occurs
-![WhatsApp Image 2026-03-12 at 4 05 46 PM (1)](https://github.com/user-attachments/assets/499f3161-2205-4815-8689-d24fb6f6efff)
+![CAN ON](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20on.jpeg)
 
 ---
 
