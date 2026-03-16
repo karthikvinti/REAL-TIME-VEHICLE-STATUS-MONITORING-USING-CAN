@@ -184,10 +184,10 @@ The LCD dashboard displays:
 ![CAN Project](https://raw.githubusercontent.com/karthikvinti/Can_images/main/WhatsApp%20Image%202026-03-14%20at%203.59.30%20PM.jpeg)
 
 ### 🔕 When No Accident Occurs
-![CAN OFF](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20off.jpeg)
+![CAN OFF](https://raw.githubusercontent.com/karthikvinti/Can_images/main/can%20off.jpeg)
 
 ### 🔔 When Accident Occurs
-![CAN ON](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20on.jpeg)
+![CAN ON](https://raw.githubusercontent.com/karthikvinti/Can_images/main/can%20on.jpeg)
 
 ---
 
