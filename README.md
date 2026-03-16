@@ -29,31 +29,7 @@ To design and implement a **real-time vehicle monitoring system using CAN protoc
 
 The system consists of **three nodes connected through a CAN bus**:
 
-                                                  +-------------+
-                                                  |  Fuel Node  |
-                                                  +-------------+                  
-                                                         \                         
-                                                          \                        
-                                                           +---------+             
-                                                           | CAN BUS | 
-                                                           +---------+             
-                                                          /                        
-                                                         /                         
-                                                +-------------------+              
-                                                |  Indicator Node   |  
-                                                +-------------------+              
-                                                        \                          
-                                                         \                         
-                                                          +---------+              
-                                                          | CAN BUS |         
-                                                          +---------+              
-                                                               |                   
-                                                               v                   
-                                                     +------------------+  
-                                                     | Main Dashboard   |
-                                                     | Node (LCD)       |
-                                                     +------------------+
-
+![CAN Image](https://raw.githubusercontent.com/karthikvinti/Can_images/main/unnamed.jpg)
 
 Each node performs a **specific task** and communicates using **CAN messages**.
 
@@ -205,7 +181,7 @@ The LCD dashboard displays:
       Indicator: ← →
       
 ### 🧩 Overall Hardware Connection
-![CAN Nodes](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20nodes.jpg)
+![CAN Project](https://raw.githubusercontent.com/karthikvinti/Can_images/main/WhatsApp%20Image%202026-03-14%20at%203.59.30%20PM.jpeg)
 
 ### 🔕 When No Accident Occurs
 ![CAN OFF](https://raw.githubusercontent.com/karthikvinti/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN/main/can%20off.jpeg)
