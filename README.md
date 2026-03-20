@@ -29,7 +29,7 @@ To design and implement a **real-time vehicle monitoring system using CAN protoc
 
 The system consists of **three nodes connected through a CAN bus**:
 
-![CAN Block Diagram](https://raw.githubusercontent.com/karthikvinti/Can_images/main/Block%20diagram%20of%20can%20nodes.png)
+<img width="1195" height="896" alt="Block diagram of CAN nodes (2)" src="https://github.com/user-attachments/assets/08640c66-1464-45ee-8823-375a5031a894" />
 
 Each node performs a **specific task** and communicates using **CAN messages**.
 
